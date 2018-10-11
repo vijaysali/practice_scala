@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/vijaysali/practice/scala/practice_scala/src/main/scala/practice.scala:38:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef add(x: Int, y: Int) : Int = x + y[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
