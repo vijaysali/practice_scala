@@ -1,7 +1,16 @@
+class Greeter(var firstName: String) {
+  def greet(lastName: String): Unit = {
+    println("Greetings...")
+    println("Hello "+ firstName + lastName)
+  }
+}
 object Main {
   def main(args: Array[String]): Unit = {
     println("Hello, You are seeing scala print message.")
 
+    val g = new Greeter("Vijay")
+    g.greet("sali")
+    println(g.firstName)
     val x = 1 + 1
     println(x)
 
