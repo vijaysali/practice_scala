@@ -49,4 +49,6 @@ object Main {
   def addAndMultiply(x: Int, y: Int)(z: Int): Int = (x + y) * z
   //System info
   def systemInfo: String = System.getProperty("user.name")
+
+  PointMain
 }
