@@ -13,7 +13,7 @@ class Point {
   }
 }
 
-object PointMain {
+object Point extends App {
    val p = new Point
   p.x = 100
   p.y = 200
