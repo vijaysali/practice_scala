@@ -2,3 +2,9 @@
 .ensime_cache/
 .idea
 target/
+.DS_Store
+*.iml
+*.ipr
+*.iws
+.out
+project/target/
